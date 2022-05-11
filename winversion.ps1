@@ -1,1 +1,1 @@
-﻿Get-ComputerInfo | select WindowsProductName, WindowsVersion
+Get-ComputerInfo | select WindowsProductName, WindowsVersion
